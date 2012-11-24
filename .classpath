@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/markus_luhdorf/solutions/lib/netty-3.5.10.Final.jar" sourcepath="/Users/markus_luhdorf/solutions/lib/netty-3.5.10.Final-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
